@@ -1,0 +1,6 @@
+[submodule "gist/counter"]
+	path = gist/counter
+	url = https://gist.github.com/873e944b67b4f006db1200bc3e366882.git
+[submodule "gist/person"]
+	path = gist/person
+	url = https://gist.github.com/1b563f892e1bf807ca6b60c907e4f40e.git
