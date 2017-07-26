@@ -4,3 +4,6 @@
 [submodule "gist/person"]
 	path = gist/person
 	url = https://gist.github.com/1b563f892e1bf807ca6b60c907e4f40e.git
+[submodule "gist/deck_of_cards"]
+	path = gist/deck_of_cards
+	url = https://gist.github.com/65768189ffddb2c9f814a5825b88dc96.git
